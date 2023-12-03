@@ -1,0 +1,141 @@
+[
+  {
+    "name": "SPOOKY HALLOWEEN NIGHT 2023",
+    "id": 1,
+    "image": "https://i.imgur.com/3vXgmYw.jpg",
+    "price": 300,
+    "description": "This fall, Spooky Halloween is coming to Dhaka’s Tokyo Square Convention Center with a sinister transformation, turning the courtside into a scream park filled with Halloween attractions that offer unforgettable thrills and unspeakable horror.\n\nImmerse yourself in the nightmare of Haunt, a Halloween event where the streets are filled with terror, including hundreds of monsters, terrifying scary games, fortune-telling booth, fancy dress performance, face art booth, magic show, DJ & so much more.\n\nIf you’re looking for things to do – or places to scream – this fall in the Dhaka area, don’t miss Dhaka’s largest Halloween event.",
+    "attractions": [
+      "Horror thematic decorations",
+      "Fancy dress contests",
+      "Fortune teller booth",
+      "Magic show",
+      "Face paint booth",
+      "Gaming booths",
+      "Horror story writing contest",
+      "DJ"
+    ],
+    "time": "13 Oct 2023, 11 a.m.",
+    "location": "Tokyo Square Convention Center"
+  },
+
+  {
+    "name": "MAZECON  2023",
+    "id": 3,
+    "image": "https://i.imgur.com/gkblwHE.jpg",
+    "price": 350,
+    "description": "After five long years, Mazecon is going to make its return this year!\n\nMazecon is the flagship event of Mazecity – The First Anime Community of Bangladesh. There have been 4 successful iterations of the first-ever Anime Convention in Bangladesh so far and this year, Mazecity is returning with its 5th, Mazecon 2023.\n\nGet ready to be a part of many exciting events such as cosplay competitions, band performances, gaming tournaments, raffle draws, and many more interactive activities for all Anime and Pop-Culture enthusiasts alike.",
+    "is_finished": false,
+    "time": "29 Nov 2023, 10 a.m.",
+    "location": "Marriott Convention Center, Dhanmondi"
+  },
+
+  {
+    "name": "AnimeCon Dhaka 2023",
+    "image": "https://i.imgur.com/zuoGFBZ.jpeg",
+    "id": 5,
+    "price": 300,
+    "description": "Welcome to AnimeCon Dhaka presents Yukii Matsuri – 金 2023, the most premium anime and pop-culture event in Bangladesh!\n\nAnimeCon Dhaka presents Yukii Matsuri – 金 2023 will be held at Tokyo Square Convention Center on the 2nd December 2023. We are very excited to have you there.\n\nSee you at AnimeCon Dhaka presents Yukii Matsuri – 金 2023",
+    "attractions": [
+      "Cosplay",
+      "Karaoke",
+      "Japanese traditional dance",
+      "Anime Music band performance",
+      "Goldfish scooping",
+      "Anime gaming competition",
+      "Anime quiz competition",
+      "Japanese authentic food",
+      "Anime merchandise stalls"
+    ],
+
+    "is_finished": false,
+    "time": "2 Dec 2023",
+    "location": "Tokyo Square Convention Center"
+  },
+  {
+    "name": "LET'S VIBE WITH DARSHAN RAVAL #SPREADLOVE",
+    "id": 6,
+    "image": "https://i.imgur.com/NsoaplZ.png",
+    "description": "Mark your calendars for the 14th of September! Twenty2 events bring you the one & only Darshan Raval and Tanveer Evan on the same stage to exude a musical aura. Get your tickets now.",
+    "is_finished": true,
+    "price": 8000,
+    "time": "14 Sep 2023, 3 p.m.",
+    "location": "ICCB Hall-4, Dhaka"
+  },
+  {
+    "name": "AE BANGLADESH PRESENTS: POP UP FEST 2023",
+    "id": 7,
+    "image": "https://i.imgur.com/BggjG5h.png",
+    "price": 100,
+    "description": "October 28, 2023, 11 am at Dhanmondi Foodplex. Join us for a day filled with fun activities and attractions including BOARD GAME CORNER, LIVE ART COMPETITION, ANIME QUIZ, BEYBLADE BATTLES, PAPER CRAFT CORNER, MANGA READING CORNER, AMV SCREENING, COSPLAY, MERCHANDISE STALLS, ANIME SCREENING, SHOKUGEKI (Food battle), and FOOD STALLS.",
+    "time": "28 Oct 2023, 11 a.m.",
+    "location": "Dhanmondi Foodplex",
+    "is_finished": false,
+    "attractions": [
+      "BOARD GAME CORNER",
+      "LIVE ART COMPETITION",
+      "ANIME QUIZ",
+      "BEYBLADE BATTLES",
+      "PAPER CRAFT CORNER",
+      "MANGA READING CORNER",
+      "AMV SCREENING",
+      "COSPLAY",
+      "MERCHANDISE STALLS",
+      "ANIME SCREENING",
+      "SHOKUGEKI (Food battle)",
+      "FOOD STALLS"
+    ]
+  },
+  {
+    "name": "D1 Cup And Concert Season 2",
+    "id": 2,
+    "image": "https://i.imgur.com/j5dDLLA.jpg",
+    "price": 100,
+    "description": "The second season of the biggest e-Sports event in Bangladesh, with the biggest prize pool. The tournament encompasses three competitive games, namely Valorant, Mobile Legends: Bang Bang (MLBB), and Counter-Strike: Global Offensive (CS: GO). The preliminary rounds will take place online over the course of a month, leading up to the finals at ICCB Hall 2 on September 2, 2023.",
+    "time": "2 Sep 2023, 9 a.m.",
+    "location": "ICCB, HALL - 2",
+    "is_finished": true
+  },
+  {
+    "name": "AnimeCon Chattogram 2023",
+    "id": 8,
+    "image": "https://i.imgur.com/5AQjqmi.jpg",
+    "price": 350,
+    "description": "Hello everyone!\nThe wait is over, and the most premium anime convention in Bangladesh – AnimeCon Chattogram is finally back! We are excited to present to you AnimeCon Chattogram 2023 – Sakura!",
+    "time": "4th Oct 2023",
+    "location": "GEC Convention Center",
+    "is_finished": true,
+    "attractions": [
+      "Cosplay",
+      "Karaoke",
+      "Anime quiz",
+      "Goldfish scooping",
+      "Gaming tournament",
+      "Meme competition",
+      "MLBB tournament",
+      "J-pop dance performance",
+      "Music band performance",
+      "DJ performance"
+    ]
+  },
+  {
+    "name": "BTS ARMY FESTA 2024",
+    "id": 9,
+    "image": "https://i.imgur.com/Ni9vlky.jpg",
+    "price": 400,
+    "description": "Welcoming all BTS fans to a day of celebration at the BTS ARMY FESTA.",
+    "time": "Jan 6, 2023, 11 am",
+    "location": "Modern Convention Hall, Mirpur 12",
+    "is_finished": true,
+    "attractions": [
+      "Cake cutting and BTS ARMY FESTA celebration",
+      "Stage performances on K-pop music",
+      "BTS fan quiz & fun games with prizes",
+      "BTS Concert & MV Screening",
+      "Photo session",
+      "DJ",
+      "Dance performances",
+      "and so much more…"
+    ]
+  }
+]

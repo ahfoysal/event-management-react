@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Concerts and Music Festivals",
+    "id": 1,
+    "image": "https://i.imgur.com/i5r3LLJ.jpg",
+    "price": "800,000 - 1,000,000",
+    "description": "Immerse yourself in the enchanting world of live music with our meticulously planned Concerts and Music Festivals. From globally renowned artists to emerging talents, we curate unforgettable musical experiences that captivate audiences and leave lasting memories.",
+    "why_choose_us": "Choose our Concerts and Music Festivals service for a seamless and immersive musical journey. We prioritize client satisfaction and seamless event execution, ensuring that every musical note resonates with perfection.",
+    "features": [
+      "Diverse lineup featuring global and emerging artists",
+      "Expert event planning and coordination",
+      "State-of-the-art sound and lighting technology",
+      "Exclusive VIP experiences",
+      "Community-driven and inclusive atmosphere"
+    ]
+  },
+  {
+    "name": "Theater and Performing Arts",
+    "id": 2,
+    "image": "https://i.imgur.com/RwinDJQ.jpg",
+    "price": "600,000 - 1,000,000",
+    "description": "Embark on a journey into the world of captivating performances with our Theater and Performing Arts events. Our curated shows showcase the best of drama, dance, and storytelling, providing a platform for both seasoned performers and emerging talents to shine.",
+    "why_choose_us": "Choose our Theater and Performing Arts service for a seamless blend of creativity and professionalism. We take pride in curating shows that leave a lasting impact, combining artistic excellence with meticulous event planning.",
+    "features": [
+      "Diverse range of performing arts, including drama and dance",
+      "International and local talent collaboration",
+      "Immersive and thought-provoking storytelling",
+      "Interactive audience engagement",
+      "Exquisite set and costume designs"
+    ]
+  },
+  {
+    "name": "Film Screenings and Premieres",
+    "id": 3,
+    "image": "https://i.imgur.com/DakpL8h.jpg",
+    "price": "500,000 - 1,000,000",
+    "description": "Roll out the red carpet for film enthusiasts! Our Film Screenings and Premieres offer an exclusive cinematic experience, bringing together movie lovers and industry professionals. Join us for an evening of glamour, entertainment, and the thrill of new cinematic releases.",
+    "why_choose_us": "Opt for our Film Screenings and Premieres service to make a statement in the world of cinema. We specialize in creating memorable and exclusive events that showcase films in a grand and sophisticated manner.",
+    "features": [
+      "Exclusive film premieres",
+      "Red carpet events with celebrity appearances",
+      "Industry professional networking opportunities",
+      "Cutting-edge cinematic technology",
+      "Q&A sessions with filmmakers and cast"
+    ]
+  },
+  {
+    "name": "Comedy Shows",
+    "id": 4,
+    "image": "https://i.imgur.com/UWSx2As.jpg",
+    "price": "400,000 - 1,000,000",
+    "description": "Prepare for a night of laughter with our meticulously curated Comedy Shows. We bring top-notch comedians to the stage, ensuring a night filled with humor and entertainment. Join us for an evening of light-hearted fun, witty observations, and unforgettable comedic performances.",
+    "why_choose_us": "Select our Comedy Shows service for an evening filled with laughter and entertainment. We excel in bringing together the finest comedic talent to create a night that your audience will remember for its humor and enjoyment.",
+    "features": [
+      "Diverse lineup of top-notch comedians",
+      "Interactive and audience-engaging performances",
+      "Varied comedic styles and genres",
+      "Exclusive VIP comedy experiences",
+      "Laughs guaranteed from start to finish"
+    ]
+  },
+  {
+    "name": "Sports Events",
+    "id": 5,
+    "image": "https://i.imgur.com/dYhtToN.jpg",
+    "price": "900,000 - 1,000,000",
+    "description": "Elevate the thrill of sports with our meticulously organized Sports Events. Whether it's a championship match or a sports festival, we deliver adrenaline-pumping experiences. Join us for a celebration of athleticism, competition, and the joy of sportsmanship.",
+    "why_choose_us": "Opt for our Sports Events service to amplify the excitement of sports. We specialize in delivering well-organized and exhilarating events that celebrate the spirit of competition and athleticism.",
+    "features": [
+      "Championship-level competitions",
+      "Adrenaline-pumping sports festivals",
+      "Exclusive access to athletes and teams",
+      "State-of-the-art sports facilities",
+      "Fan engagement activities and competitions"
+    ]
+  },
+  {
+    "name": "Cosplay Events",
+    "id": 6,
+    "image": "https://i.imgur.com/kT3wEpt.png",
+    "price": "200,000 - 1,000,000",
+    "description": "Step into the world of cosplay extravagance with our Cosplay Events. We provide a platform for enthusiasts to showcase their creativity through costumes, performances, and interactive experiences. Join us for a celebration of fandom, imagination, and the art of bringing beloved characters to life.",
+    "why_choose_us": "Choose our Cosplay Events service for a vibrant celebration of creativity and fandom. We excel in creating immersive and interactive experiences that allow enthusiasts to showcase their passion and talent.",
+    "features": [
+      "Cosplay competitions with exciting prizes",
+      "Interactive cosplay workshops and panels",
+      "Celebrity cosplayer appearances",
+      "Themed cosplay parades",
+      "Cosplay photography and meet-and-greet sessions"
+    ]
+  }
+]
